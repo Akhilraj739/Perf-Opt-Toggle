@@ -1,0 +1,6 @@
+id=cpu_gpu_perf_manual
+name=Perf-Opt Toggle
+version=v5
+versionCode=5
+author=Akhil739
+description=Status: Balanced | Manual performance toggle via Action button.
